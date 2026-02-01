@@ -29,7 +29,7 @@ This website showcases my skills, projects, and includes an AI chatbot and a con
 
 ## 📂 Project Structure
 
-<p>portfolio/
+portfolio/
 │
 ├── index.html
 ├── about.html
@@ -44,7 +44,7 @@ This website showcases my skills, projects, and includes an AI chatbot and a con
 │ ├── ai-meme.png
 │ ├── portfolio.png
 │ └── python.png
-└── netlify/functions/chat.js</p>
+└── netlify/functions/chat.js<
 
 
 ---
