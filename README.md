@@ -5,9 +5,6 @@ This website showcases my skills, projects, and includes an AI chatbot and a con
 
 ---
 
-## 🚀 Live Demo
-👉 (Add your Netlify or GitHub Pages link here)
-
 ---
 
 ## 📌 Features
