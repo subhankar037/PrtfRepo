@@ -1,0 +1,24 @@
+nav{
+    display:flex;
+    justify-content:space-between;
+    padding:20px 10%;
+    background:#020c1b;
+}
+
+nav a{
+    color:#64ffda;
+    margin:15px;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.page{
+    padding:100px 10%;
+    color:white;
+}
+
+.page h1{
+    color:#64ffda;
+    font-size:40px;
+    margin-bottom:20px;
+}
