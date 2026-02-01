@@ -22,3 +22,39 @@ nav a{
     font-size:40px;
     margin-bottom:20px;
 }
+.contact-form{
+    max-width:500px;
+    margin:auto;
+    display:flex;
+    flex-direction:column;
+}
+
+.contact-form input,
+.contact-form textarea{
+    padding:15px;
+    margin:10px 0;
+    border:none;
+    border-radius:10px;
+    background:#112240;
+    color:white;
+    font-size:16px;
+}
+
+.contact-form textarea{
+    height:120px;
+    resize:none;
+}
+
+.contact-form button{
+    padding:15px;
+    background:#64ffda;
+    border:none;
+    border-radius:30px;
+    color:#020c1b;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.contact-form button:hover{
+    background:white;
+}
